@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "f:\\Users\\SaReN\\Desktop\\Everything Else\\Game Projects\\Crushed\\Crushed\\Assembly-CSharp.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
