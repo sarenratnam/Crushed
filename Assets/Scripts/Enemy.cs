@@ -42,6 +42,7 @@ public class Enemy : MonoBehaviour {
 				m_speed = 0f;
 				GameManager.Instance.ClaimSoul();
 				Object.Destroy(gameObject, 4.0f);
+                this.GetComponent<Collider2D>().enabled = false;
 				
 
 				// m_GameControlScript.m_Kill += 1;
